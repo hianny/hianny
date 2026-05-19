@@ -16,7 +16,7 @@ Foco na criação de sistemas de backend, integrações e automações de proces
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N6ZndndW90Z3VwMnVwcmM0bms3MDZ5ZzZ6ZXF4b3Rnd3Flb3FpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy200.webp" width="180" alt="Software Engineering Coding GIF">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3NrZHN6YXNvM3JhYnNoamlpbDU3Zjc4cnYyYnZyNDY1emcyeHBoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8OYnFrez06yQt9zJFW/giphy.gif" width="180" alt="Software Engineering Coding GIF">
 </p>
 ---
 
