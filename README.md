@@ -8,7 +8,7 @@
 
 ---
 
-<span style="color: #00FFFF;">### SOBRE MIM //</span>
+<span style="color: #00FFFF;"> SOBRE MIM //</span>
 
 Olá! Me chamo **Hianny Urt**, sou estudante de **Engenharia de Software na UNIVAG** e atuo profissionalmente como Desenvolvedora de Software e Automação. 
 
@@ -16,7 +16,7 @@ Foco na criação de sistemas de backend robustos, integrações inteligentes e 
 
 ---
 
-<span style="color: #00FFFF;">### PRINCIPAIS LINGUAGENS //</span>
+<span style="color: #00FFFF;"> PRINCIPAIS LINGUAGENS //</span>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
@@ -27,7 +27,7 @@ Foco na criação de sistemas de backend robustos, integrações inteligentes e 
 
 ---
 
-<span style="color: #00FFFF;">### O QUE EU FAÇO & PROJETOS //</span>
+<span style="color: #00FFFF;"O QUE EU FAÇO & PROJETOS //</span>
 
 Desenvolvo soluções ponta a ponta, transitando entre automações complexas e aplicações web completas. Alguns dos meus focos e projetos incluem:
 
@@ -37,7 +37,7 @@ Desenvolvo soluções ponta a ponta, transitando entre automações complexas e 
 
 ---
 
-<span style="color: #00FFFF;">### CURIOSIDADES //</span>
+<span style="color: #00FFFF;"> CURIOSIDADES //</span>
 
 *   Sou do time **Pain Gaming**
 *   Zerei *Dishonored 1 e 2* sem matar ninguém (Ghost/Clean Hands)
@@ -46,17 +46,17 @@ Desenvolvo soluções ponta a ponta, transitando entre automações complexas e 
 
 ---
 
-<span style="color: #00FFFF;">### GITHUB STATS //</span>
+<span style="color: #00FFFF;"> GITHUB STATS //</span>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight.vercel.app/api?username=hianny&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000" alt="Hianny's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hianny&show_icons=true&theme=dark&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000" alt="Hianny's GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=hianny&layout=compact&langs_count=4&theme=dark&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hianny&layout=compact&theme=dark&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000" alt="Top Languages" />
 </p>
 
 ---
 
-<span style="color: #00FFFF;">### CONTATO //</span>
+<span style="color: #00FFFF;"> CONTATO //</span>
 
 <p align="center">
   <a href="https://github.com/hianny" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
