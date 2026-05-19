@@ -12,6 +12,8 @@
 Meu nome é Hianny Urt, sou estudante de **Engenharia de Software na UNIVAG** e atuo profissionalmente como Desenvolvedora de Software e Automação. 
 
 Foco na criação de sistemas de backend, integrações e automações de processos privados e governamentais, unindo a visão computacional e Machine Learning com RPA.
+
+**Conheça também o meu** [Perfil Empresarial](https://github.com/anniebf)
 <br>
 
 <p align="center">
