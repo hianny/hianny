@@ -10,10 +10,14 @@
 
 <span style="color: #00FFFF;"> SOBRE MIM </span>
 
-Olá! Me chamo **Hianny Urt**, sou estudante de **Engenharia de Software na UNIVAG** e atuo profissionalmente como Desenvolvedora de Software e Automação. 
+Sou estudante de **Engenharia de Software na UNIVAG** e atuo profissionalmente como Desenvolvedora de Software e Automação. 
 
-Foco na criação de sistemas de backend robustos, integrações inteligentes e automações de processos eficientes, unindo a visão acadêmica com a prática do mercado.
+Foco na criação de sistemas de backend, integrações e automações de processos privados e governamentais, unindo a visão computacional e Machine Learning com RPA.
+<br>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N6ZndndW90Z3VwMnVwcmM0bms3MDZ5ZzZ6ZXF4b3Rnd3Flb3FpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy200.webp" width="180" alt="Software Engineering Coding GIF">
+</p>
 ---
 
 <span style="color: #FF00FF;"> PRINCIPAIS HABILIDADES </span>
