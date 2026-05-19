@@ -16,7 +16,7 @@ Foco na criação de sistemas de backend robustos, integrações inteligentes e 
 
 ---
 
-<span style="color: #00FFFF;"> PRINCIPAIS LINGUAGENS </span>
+<span style="color: #FF00FF;"> PRINCIPAIS LINGUAGENS </span>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
@@ -37,16 +37,7 @@ Desenvolvo soluções ponta a ponta, transitando entre automações complexas e 
 
 ---
 
-<span style="color: #00FFFF;"> CURIOSIDADES </span>
-
-*   Sou do time **Pain Gaming**
-*   Zerei *Dishonored 1 e 2* sem matar ninguém (Ghost/Clean Hands)
-*   Uso Windows no dia a dia, mas meu coração prefere **Linux**
-*   Coleciono cartas de **Pokémon**
-
----
-
-<span style="color: #00FFFF;"> GITHUB STATS </span>
+<span style="color: #FF00FF;"> GITHUB STATS </span>
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hianny&show_icons=true&theme=dark&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000" alt="Hianny's GitHub Stats" />
@@ -67,3 +58,14 @@ Desenvolvo soluções ponta a ponta, transitando entre automações complexas e 
 <p align="center">
   <img src="https://raw.githubusercontent.com/hianny/hianny/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
+
+---
+
+<span style="color: #FF00FF;"> CURIOSIDADES </span>
+
+*   Sou do time **Pain Gaming**
+*   Zerei *Dishonored 1 e 2* sem matar ninguém (Ghost/Clean Hands)
+*   Uso Windows no dia a dia, mas meu coração prefere **Linux**
+*   Coleciono cartas de <span style="color: #FF00FF;">**Pokémon**</span>
+
+
