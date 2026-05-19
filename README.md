@@ -21,14 +21,13 @@ Foco na criação de sistemas de backend robustos, integrações inteligentes e 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C++
--00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 </p>
 
 ---
 
-<span style="color: #00FFFF;">### 💻 O QUE EU FAÇO & PROJETOS //</span>
+<span style="color: #00FFFF;">### O QUE EU FAÇO & PROJETOS //</span>
 
 Desenvolvo soluções ponta a ponta, transitando entre automações complexas e aplicações web completas. Alguns dos meus focos e projetos incluem:
 
@@ -50,8 +49,9 @@ Desenvolvo soluções ponta a ponta, transitando entre automações complexas e 
 <span style="color: #00FFFF;">### GITHUB STATS //</span>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HiannyUrt&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=20&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiannyUrt&layout=compact&langs_count=4&theme=dark&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hianny&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000" alt="Hianny's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hianny&layout=compact&langs_count=4&theme=dark&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000" alt="Top Languages" />
 </p>
 
 ---
@@ -65,5 +65,5 @@ Desenvolvo soluções ponta a ponta, transitando entre automações complexas e 
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HiannyUrt/HiannyUrt/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/hianny/hianny/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
