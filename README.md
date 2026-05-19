@@ -1,4 +1,3 @@
-<h1 align="center"><span style="color: #00FFFF;">HIANNY URT</span></h1> 
 <h3 align="center"><span style="color: #FF00FF;">SOFTWARE & AUTOMATION ENGINEER</span></h3> 
 
 <p align="center">
@@ -10,7 +9,7 @@
 
 <span style="color: #00FFFF;"> SOBRE MIM </span>
 
-Sou estudante de **Engenharia de Software na UNIVAG** e atuo profissionalmente como Desenvolvedora de Software e Automação. 
+Meu nome é Hianny Urt, sou estudante de **Engenharia de Software na UNIVAG** e atuo profissionalmente como Desenvolvedora de Software e Automação. 
 
 Foco na criação de sistemas de backend, integrações e automações de processos privados e governamentais, unindo a visão computacional e Machine Learning com RPA.
 <br>
