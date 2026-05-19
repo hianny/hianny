@@ -39,24 +39,24 @@ Desenvolvo soluções ponta a ponta, transitando entre automações complexas e 
 
 <span style="color: #00FFFF;">### CURIOSIDADES //</span>
 
-*   💚 Sou do time **Pain Gaming**
-*   🎮 Zerei *Dishonored 1 e 2* sem matar ninguém (Ghost/Clean Hands)
-*   🐧 Uso Windows no dia a dia, mas meu coração prefere **Linux**
-*   🃏 Coleciono cartas de **Pokémon**
+*   Sou do time **Pain Gaming**
+*   Zerei *Dishonored 1 e 2* sem matar ninguém (Ghost/Clean Hands)
+*   Uso Windows no dia a dia, mas meu coração prefere **Linux**
+*   Coleciono cartas de **Pokémon**
 
 ---
 
 <span style="color: #00FFFF;">### GITHUB STATS //</span>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hianny&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000" alt="Hianny's GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hianny&layout=compact&langs_count=4&theme=dark&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=hianny&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000" alt="Hianny's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=hianny&layout=compact&langs_count=4&theme=dark&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=000000" alt="Top Languages" />
 </p>
 
 ---
 
-<span style="color: #00FFFF;">### 📬 CONTATO //</span>
+<span style="color: #00FFFF;">### CONTATO //</span>
 
 <p align="center">
   <a href="https://github.com/hianny" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
