@@ -93,9 +93,7 @@ Desenvolvo soluções ponta a ponta, transitando entre automações complexas e 
 
 <span style="color: #FF00FF;"> CURIOSIDADES </span>
 
-*   Sou do time **Pain Gaming**
-*   Zerei *Dishonored 1 e 2* sem matar ninguém (Ghost/Clean Hands)
-*   Uso Windows no dia a dia, mas meu coração prefere **Linux**
-*   Coleciono cartas de <span style="color: #FF00FF;">**Pokémon**</span>
+*   Goste de **Dark Souls** e **Dishonored**
+*   Troco cartinha pokemon <span style="color: #FF00FF;">**Pokémon**</span>
 
 
